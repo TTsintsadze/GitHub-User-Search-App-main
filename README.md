@@ -9,7 +9,7 @@ This is a solution to the [GitHub user search app challenge on Frontend Mentor](
 
 # Links
 
-- Solution URL: [GitHub Code]( )
-- Live Site URL: [Live Site]( )
+- Solution URL: [GitHub Code](https://github.com/TTsintsadze/GitHub-User-Search-App-main)
+- Live Site URL: [Live Site](https://git-hub-user-search-app-main.vercel.app/)
 
 
